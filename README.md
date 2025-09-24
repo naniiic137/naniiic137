@@ -25,7 +25,7 @@ I design and build small, fast, and reliable software — from Windows utilities
 <!-- Build & Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 <!-- OS & Distribution -->
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!--![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)-->
 <!-- Add or remove badges to match your real stack. You can find more at https://shields.io/ and https://simpleicons.org/ -->
 
 ## 🧭 Project Spotlight — LogiServ (Private Final‑Year Project)
