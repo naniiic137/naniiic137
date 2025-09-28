@@ -7,9 +7,9 @@ I design and build small, fast, and reliable software — from Windows utilities
 
 ## 🌐 Socials
 <!-- Replace the placeholders below with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_USERNAME/) <!-- e.g., https://www.linkedin.com/in/hamzabenismail1/ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzabenismail1/) <!-- e.g., https://www.linkedin.com/in/hamzabenismail1/ -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/REPLACE_WITH_TWITTER_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://REPLACE_WITH_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://naniiic137.github.io/hamza.ben.ismail/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:REPLACE_WITH_EMAIL)
 
 ## 💻 Tech Stack
