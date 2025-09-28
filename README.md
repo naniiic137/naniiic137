@@ -38,12 +38,11 @@ Web app for STEG to manage building maintenance and vehicle fleet operations. De
 
 **Tech**: React + TypeScript, Redux, MUI • Spring Boot (REST) • PostgreSQL, Redis • Docker, NGINX • Keycloak (LDAP) • Email notifications
 
-## 🔥 Highlights
+<!-- ## 🔥 Highlights
 - ✨ Featured project: [REPLACE_WITH_PROJECT_NAME](https://github.com/REPLACE_WITH_USERNAME/REPLACE_WITH_REPO)
 - 🧰 Favorite tool: REPLACE_WITH_TOOL
-- 🏆 Notable achievement: REPLACE_WITH_AWARD_OR_FACT
+- 🏆 Notable achievement: REPLACE_WITH_AWARD_OR_FACT -->
 <!-- Swap the placeholders above with your real links and facts. Remove any line you don't need. -->
-
 ## 📈 GitHub Stats
 <!-- If your username differs, replace naniiic137 below. -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=naniiic137&theme=transparent&hide_border=true)
