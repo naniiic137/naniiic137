@@ -46,8 +46,8 @@ Web app for STEG to manage building maintenance and vehicle fleet operations. De
 ## 📈 GitHub Stats
 <!-- If your username differs, replace naniiic137 below. -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=naniiic137&theme=transparent&hide_border=true)
-![Top Languages](github-readme-stats-hj5wssuoq-naniiic137s-projects.vercel.app/api/top-langs/?username=naniiic137&langs_count=8&layout=compact&theme=transparent&hide_border=true)
-![GitHub Stats](github-readme-stats-hj5wssuoq-naniiic137s-projects.vercel.app/api?username=naniiic137&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api/top-langs/?username=naniiic137&langs_count=8&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api?username=naniiic137&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naniiic137&icon=0&color=7)](https://visitcount.itsvg.in)
