@@ -54,7 +54,7 @@ Web app for STEG to manage building maintenance and vehicle fleet operations. De
 <!-- Replace id with your username if needed. Example: id=naniiic137 -->
 
 ## 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/REPLACE_WITH_USERNAME)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/naniii)
 <!-- Example: https://www.buymeacoffee.com/naniii -->
 
 <!-- Optional: Showcase screenshots or GIFs of your apps -->
