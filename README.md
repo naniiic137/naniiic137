@@ -1,75 +1,235 @@
-# 🚀 Windows apps, pragmatic web dev, and clean, reliable tooling
-I design and build small, fast, and reliable software — from Windows utilities to web backends.
-<!-- Optional alt: "Maker of reliable Windows utilities and full‑stack web apps with a focus on DX and performance." -->
+```text
+╔══════════════════════════════════════════════════════════════╗
+║     ____                    __        __                     ║
+║    / __ \ ____ _ ____ ___  / /____   / /_   ___    ____     ║
+║   / /_/ // __ `// __ `__ \/ // __ \ / __ \ / _ \  / __ \    ║
+║  / _, _// /_/ // / / / / / // /_/ // /_/ //  __/ / / / /    ║
+║ /_/ |_| \__,_//_/ /_/ /_/_// .___//_.___/ \___/ /_/ /_/     ║
+║                           /_/                               ║
+║                                                              ║
+║       Computer Science Graduate  •  Full-Stack Dev          ║
+║       AI & Automation  •  Blockchain  •  IoT               ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 💫 About Me
-🔭 Currently building Windows utilities and internal tools<br>👯 Open to collaborating on impactful, well‑scoped projects<br>🌱 Growing in backend/API design and systems thinking<br>⚡ Fun fact: I studied Pascal for 5 years
-
-## 🌐 Socials
-<!-- Replace the placeholders below with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzabenismail1/) <!-- e.g., https://www.linkedin.com/in/hamzabenismail1/ -->
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/REPLACE_WITH_TWITTER_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://naniiic137.github.io/hamza.ben.ismail/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:REPLACE_WITH_EMAIL)
-
-## 💻 Tech Stack
-<!-- Keep only what you actually use. Replace or remove freely. -->
-<!-- Languages -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!-- Backend & Runtimes -->
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-311C87?style=for-the-badge&logo=keycloak&logoColor=white)
-<!-- Frontend -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-<!-- Databases -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-<!-- Build & Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-<!-- OS & Distribution -->
-<!--![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)-->
-<!-- Add or remove badges to match your real stack. You can find more at https://shields.io/ and https://simpleicons.org/ -->
-
-## 🧭 Project Spotlight — LogiServ (Private Final‑Year Project)
-Web app for STEG to manage building maintenance and vehicle fleet operations. Designed to optimize resources with a clean UX and centralized identity.
-
-**Scope at a glance**
-- Buildings: preventive/curative maintenance, work progress, teams, stock
-- Fleet: vehicles, mileage, maintenance planning, assignments
-- Identity & Security: roles/permissions, Keycloak + LDAP, audit trail
-
-**Tech**: React + TypeScript, Redux, MUI • Spring Boot (REST) • PostgreSQL, Redis • Docker, NGINX • Keycloak (LDAP) • Email notifications
-
-<!-- ## 🔥 Highlights
-- ✨ Featured project: [REPLACE_WITH_PROJECT_NAME](https://github.com/REPLACE_WITH_USERNAME/REPLACE_WITH_REPO)
-- 🧰 Favorite tool: REPLACE_WITH_TOOL
-- 🏆 Notable achievement: REPLACE_WITH_AWARD_OR_FACT -->
-<!-- Swap the placeholders above with your real links and facts. Remove any line you don't need. -->
-## 📈 GitHub Stats
-<!-- If your username differs, replace naniiic137 below. -->
-![GitHub Streak](https://streak-stats.demolab.com?user=naniiic137&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api/top-langs/?username=naniiic137&langs_count=8&layout=compact&theme=transparent&hide_border=true)
-![GitHub Stats](https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api?username=naniiic137&show_icons=true&theme=transparent&hide_border=true)
+<p align="center">
+  <a href="mailto:hamza.benismail.6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/hamzabenismail1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://naniiic137.github.io/hamza.ben.ismail/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/naniiic137"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://buymeacoffee.com/naniii"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=naniiic137&style=flat-square&color=blueviolet" alt="Profile Views">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naniiic137&icon=0&color=7)](https://visitcount.itsvg.in)
-<!-- Replace id with your username if needed. Example: id=naniiic137 -->
 
-## 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/naniii)
-<!-- Example: https://www.buymeacoffee.com/naniii -->
+## ⚡ About Me
 
-<!-- Optional: Showcase screenshots or GIFs of your apps -->
-<!-- 
-### 📸 Screenshots
-![App Screenshot](REPLACE_WITH_IMAGE_URL)
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=CS+Graduate+%7C+Full-Stack+Engineer;AI+%26+LLM+Specialist;Blockchain+%26+NFT+Builder;Open+Source+Enthusiast" alt="Typing SVG">
+</p>
 
-<!-- Optional: Add a short roadmap or what you're learning next -->
-<!-- 
-### 🗺️ Roadmap
-- Shipping v2 of my Windows utility
-- Exploring Electron + Rust
--->
+Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **Faculty of Sciences of Sfax**, Tunisia. I build things that live at the intersection of **full-stack web**, **desktop applications**, **IoT**, **blockchain**, and **AI automation**.
 
-<!-- If this is your profile README, pin your top repos on your profile for visibility. If this is a project README, add Installation/Usage sections instead. -->
+🔭 Currently working on **crypto game development** at **The Orange Labz** — building the ToLZ NFT ecosystem and managing a 1000+ player Discord community.  
+🌱 Constantly exploring **LLMs, AI agents, and prompt engineering** to build smarter systems.  
+⚡ Fun fact: I learned **Pascal for 5 years** before touching anything modern — those `begin...end` blocks built my foundation.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=fff" alt="Java">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" alt="C++">
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff" alt="C">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" alt="PHP">
+<img src="https://img.shields.io/badge/Pascal-E61B23?logo=delphi&logoColor=fff" alt="Pascal/Delphi">
+
+### Frontend
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=fff" alt="Redux">
+<img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
+
+### Backend & Database
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL">
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" alt="Redis">
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase">
+
+### DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
+<img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff" alt="NGINX">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git">
+<img src="https://img.shields.io/badge/Keycloak-311C87?logo=keycloak&logoColor=fff" alt="Keycloak">
+<img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff" alt="WebRTC">
+<img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff" alt="Discord.js">
+
+### AI & Embedded
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" alt="OpenAI">
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium">
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=fff" alt="Raspberry Pi">
+<img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff" alt="ESP32">
+<img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="Arduino">
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">🎮 Orange Crush / The Orange Labz</h3>
+    <p align="center">
+      Tap-to-earn crypto game & ToLZ NFT ecosystem<br>
+      <em>2025 - Present</em>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff" alt="Blockchain">
+      <img src="https://img.shields.io/badge/NFT-FF6B35?logo=opensea&logoColor=fff" alt="NFT">
+      <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" alt="Discord">
+    </p>
+    <p align="center">Built a 1000+ player community. Launched ToLZ on OpenSea. Developing Orange Crush game ecosystem.</p>
+    <p align="center"><a href="https://orangecrush.app/game">🎮 Play</a> • <a href="https://theorangelabz.com">🏢 Studio</a></p>
+  </td>
+  <td width="50%">
+    <h3 align="center">🚗 LogiServ</h3>
+    <p align="center">
+      Fleet maintenance & operational platform<br>
+      <em>Final Year Project — Apr–Jun 2025</em>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
+    </p>
+    <p align="center">Full-stack platform for vehicle fleet tracking. Keycloak auth, Redis caching, real-time Firebase notifications, NGINX deployment.</p>
+    <p align="center"><em>Private Repository</em></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">🃏 Chkoba (شكوبة)</h3>
+    <p align="center">
+      Multiplayer Tunisian card game<br>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase">
+      <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff" alt="WebRTC">
+    </p>
+    <p align="center">Real-time multiplayer card game. Supports 2/4 player team modes with full Shkobba scoring mechanics across any network.</p>
+    <p align="center"><a href="https://github.com/naniiic137/Chkoba">📦 Repo</a></p>
+  </td>
+  <td width="50%">
+    <h3 align="center">♟️ Custom Checkers</h3>
+    <p align="center">
+      Fully customizable checkers game<br>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
+      <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff" alt="WebRTC">
+    </p>
+    <p align="center">Adjustable board size, 6 king modes, board editor, shareable links — real-time P2P multiplayer via WebRTC.</p>
+    <p align="center"><a href="https://github.com/naniiic137/Custom-Checkers">📦 Repo</a></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">🤖 Discord Moderation Bot</h3>
+    <p align="center">
+      Full-featured moderation & automation<br>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
+      <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff" alt="Discord.js">
+    </p>
+    <p align="center">Daily limits, per-submission cooldowns, multi-channel support, interactive dashboard, lockdowns, role restrictions.</p>
+    <p align="center"><a href="https://github.com/naniiic137/Discord-moderation-bot">📦 Repo</a></p>
+  </td>
+  <td width="50%">
+    <h3 align="center">💖 ValenLink</h3>
+    <p align="center">
+      Interactive Valentine's Day web app<br>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
+      <img src="https://img.shields.io/badge/EmailJS-FF6C37?logo=maildotru&logoColor=fff" alt="EmailJS">
+    </p>
+    <p align="center">Generate a personalized link that sends the recipient's response directly to your email. Fun and romantic!</p>
+    <p align="center"><a href="https://github.com/naniiic137/ValenLink">📦 Repo</a></p>
+  </td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/naniiic137?tab=repositories"><b>🔍 Explore all 20+ projects →</b></a>
+</p>
+
+---
+
+## 💼 Experience
+
+| Where | What | When |
+|-------|------|------|
+| 🎮 **The Orange Labz** — Orange Crush Game | Developer & Community Manager (1000+ players) | 2025–Present |
+| 🚗 **LogiServ** — Academic Project | Full-Stack Fleet Management System | Apr–Jun 2025 |
+| 💼 **Tunisie Telecom** | Software Developer Intern — Employee Management App | 2024 |
+| 🎓 **Faculty of Sciences of Sfax** | Computer Science Graduate | 2022–2025 |
+| 📚 **Pascal Programming** | 5 Years of Algorithmic & Logic Foundation | 2019–2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naniiic137&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak">
+  <img src="https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api/top-langs/?username=naniiic137&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Langs">
+  <br>
+  <img src="https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api?username=naniiic137&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Stats">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  I'm always open to collaborations, interesting projects, or just a good chat about tech.<br>
+  Whether it's crypto, AI agents, embedded systems, or a game of Tunisian cards — I'm in. 🃏
+</p>
+
+<p align="center">
+  <a href="mailto:hamza.benismail.6@gmail.com"><img src="https://img.shields.io/badge/Email-hamza.benismail.6%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <br>
+  <a href="https://www.linkedin.com/in/hamzabenismail1/"><img src="https://img.shields.io/badge/LinkedIn-Hamza%20Ben%20Ismail-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://naniiic137.github.io/hamza.ben.ismail/"><img src="https://img.shields.io/badge/Portfolio-Retro%20Game%20Boy%20Style-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/naniii">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="BuyMeACoffee">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave">
+</p>
+
+<p align="center">
+  <i>📟 Inspired by my retro Game Boy portfolio — because code should be fun.</i>
+</p>
