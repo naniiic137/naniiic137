@@ -1,3 +1,5 @@
+<p align="center">
+
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║     ____                    __        __                     ║
@@ -11,6 +13,8 @@
 ║       AI & Automation  •  Blockchain  •  IoT               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+</p>
 
 <p align="center">
   <a href="mailto:hamza.benismail.6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
@@ -40,9 +44,8 @@ Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **F
 
 ## 🛠️ Tech Stack
 
+<h3 align="center">Languages</h3>
 <p align="center">
-
-### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
@@ -51,15 +54,19 @@ Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **F
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff" alt="C">
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" alt="PHP">
 <img src="https://img.shields.io/badge/Pascal-E61B23?logo=delphi&logoColor=fff" alt="Pascal/Delphi">
+</p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=fff" alt="Redux">
 <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
+</p>
 
-### Backend & Database
+<h3 align="center">Backend & Database</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL">
@@ -67,22 +74,25 @@ Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **F
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" alt="Redis">
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase">
+</p>
 
-### DevOps & Tools
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff" alt="NGINX">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git">
 <img src="https://img.shields.io/badge/Keycloak-311C87?logo=keycloak&logoColor=fff" alt="Keycloak">
 <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff" alt="WebRTC">
 <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff" alt="Discord.js">
+</p>
 
-### AI & Embedded
+<h3 align="center">AI & Embedded</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" alt="OpenAI">
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium">
 <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=fff" alt="Raspberry Pi">
 <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff" alt="ESP32">
 <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="Arduino">
-
 </p>
 
 ---
