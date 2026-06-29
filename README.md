@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 
-```text
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║     ____                    __        __                     ║
 ║    / __ \ ____ _ ____ ___  / /____   / /_   ___    ____     ║
@@ -14,7 +14,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</p>
+</div>
 
 <p align="center">
   <a href="mailto:hamza.benismail.6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
