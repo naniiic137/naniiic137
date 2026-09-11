@@ -93,19 +93,33 @@ Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **F
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">🎮 Orange Crush / The Orange Labz</h3>
+    <h3 align="center">🌫️ Fog Chess</h3>
     <p align="center">
-      Tap-to-earn crypto game & ToLZ NFT ecosystem<br>
-      <em>2025 - Present</em>
+      Hidden-information chess variant with fog of war<br>
     </p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff" alt="Blockchain">
-      <img src="https://img.shields.io/badge/NFT-FF6B35?logo=opensea&logoColor=fff" alt="NFT">
-      <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" alt="Discord">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
+      <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff" alt="Socket.io">
+      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express">
     </p>
-    <p align="center">Built a 1000+ player community. Launched ToLZ on OpenSea. Developing Orange Crush game ecosystem.</p>
-    <p align="center"><a href="https://orangecrush.app/game">🎮 Play</a> • <a href="https://theorangelabz.com">🏢 Studio</a></p>
+    <p align="center">Two-player LAN chess where opponent pieces are invisible. Secret arrangement, private guess-pins, Chaos mode with fairy pieces (Amazon, Nightrider) and boards up to 10x10.</p>
+    <p align="center"><em>Private Repository</em></p>
   </td>
+  <td width="50%">
+    <h3 align="center">🔐 ChessCipher</h3>
+    <p align="center">
+      Hide secret messages inside chess boards<br>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
+      <img src="https://img.shields.io/badge/SHA--256-4A154B?logoColor=fff" alt="SHA-256">
+    </p>
+    <p align="center">Steganographic tool that encodes text into realistic chess positions using SHA-256 mapping. Python CLI + interactive browser app with drag-and-drop.</p>
+    <p align="center"><a href="https://github.com/naniiic137/ChessCipher">📦 Repo</a></p>
+  </td>
+</tr>
+<tr>
   <td width="50%">
     <h3 align="center">🚗 LogiServ</h3>
     <p align="center">
@@ -120,6 +134,20 @@ Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **F
     <p align="center">Full-stack platform for vehicle fleet tracking. Keycloak auth, Redis caching, real-time Firebase notifications, NGINX deployment.</p>
     <p align="center"><em>Private Repository</em></p>
   </td>
+  <td width="50%">
+    <h3 align="center">🎮 Orange Crush / The Orange Labz</h3>
+    <p align="center">
+      Tap-to-earn crypto game & ToLZ NFT ecosystem<br>
+      <em>2025 - Present</em>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff" alt="Blockchain">
+      <img src="https://img.shields.io/badge/NFT-FF6B35?logo=opensea&logoColor=fff" alt="NFT">
+      <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" alt="Discord">
+    </p>
+    <p align="center">Built a 1000+ player community. Launched ToLZ on OpenSea. Developing Orange Crush game ecosystem.</p>
+    <p align="center"><a href="https://orangecrush.app/game">🎮 Play</a> • <a href="https://theorangelabz.com">🏢 Studio</a></p>
+  </td>
 </tr>
 <tr>
   <td width="50%">
@@ -130,54 +158,29 @@ Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **F
     <p align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase">
-      <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff" alt="WebRTC">
+      <img src="https://img.shields.io/badge/Real--Time-333333?logoColor=fff" alt="Real-Time">
     </p>
     <p align="center">Real-time multiplayer card game. Supports 2/4 player team modes with full Shkobba scoring mechanics across any network.</p>
     <p align="center"><a href="https://github.com/naniiic137/Chkoba">📦 Repo</a></p>
   </td>
   <td width="50%">
-    <h3 align="center">♟️ Custom Checkers</h3>
+    <h3 align="center">🔤 Custom WordleV2</h3>
     <p align="center">
-      Fully customizable checkers game<br>
+      Wordle clone with 33 game modes<br>
     </p>
     <p align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
-      <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff" alt="WebRTC">
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff" alt="Netlify">
+      <img src="https://img.shields.io/badge/AES--128-4A154B?logoColor=fff" alt="Encryption">
     </p>
-    <p align="center">Adjustable board size, 6 king modes, board editor, shareable links — real-time P2P multiplayer via WebRTC.</p>
-    <p align="center"><a href="https://github.com/naniiic137/Custom-Checkers">📦 Repo</a></p>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">🤖 Discord Moderation Bot</h3>
-    <p align="center">
-      Full-featured moderation & automation<br>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff" alt="Discord.js">
-    </p>
-    <p align="center">Daily limits, per-submission cooldowns, multi-channel support, interactive dashboard, lockdowns, role restrictions.</p>
-    <p align="center"><a href="https://github.com/naniiic137/Discord-moderation-bot">📦 Repo</a></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">💖 ValenLink</h3>
-    <p align="center">
-      Interactive Valentine's Day web app<br>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
-      <img src="https://img.shields.io/badge/EmailJS-FF6C37?logo=maildotru&logoColor=fff" alt="EmailJS">
-    </p>
-    <p align="center">Generate a personalized link that sends the recipient's response directly to your email. Fun and romantic!</p>
-    <p align="center"><a href="https://github.com/naniiic137/ValenLink">📦 Repo</a></p>
+    <p align="center">Puzzle creator, encrypted link sharing, 33 game modes across 5 categories, serverless backend with Netlify Functions.</p>
+    <p align="center"><a href="https://github.com/naniiic137/CustomWordleV2">📦 Repo</a> • <a href="https://rainbow-jalebi-6d8f8c.netlify.app/creator.html">🎮 Demo</a></p>
   </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/naniiic137?tab=repositories"><b>🔍 Explore all 20+ projects →</b></a>
+  <a href="https://github.com/naniiic137?tab=repositories"><b>🔍 Explore all 26+ projects →</b></a>
 </p>
 
 ---
