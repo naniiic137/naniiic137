@@ -70,7 +70,7 @@ Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an a
 <td width="50%" valign="top">
 
 ### 🤖 JobFit AI
-AI copilot for job applications: CV vs job ad → grounded match score, skill gaps, tailored CV bullets and an EN/FR cover letter. Four pluggable providers (offline, Gemini, Ollama, OpenAI-compatible) behind one zod-validated schema — and every claim must quote the CV. 176 tests, including a golden-set evaluation.
+AI copilot for job applications: CV vs job ad → grounded match score, skill gaps, tailored CV bullets and an EN/FR cover letter. Four pluggable providers (offline, Gemini, Ollama, OpenAI-compatible) behind one zod-validated schema — and every claim must quote the CV. 196 tests, including a golden-set evaluation.
 
 `React` `TypeScript` `LLMs` `Prompt engineering` `zod`
 <br>[📦 Repo](https://github.com/naniiic137/jobfit-ai)
