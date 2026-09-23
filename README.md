@@ -145,7 +145,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 
 | Mission | What it does | Stack |
 |---|---|---|
-| [Websites for Businesses](https://websites-preview.netlify.app) | 9 complete client-style sites (restaurant, QR menu, shop, real estate, hotel, delivery, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
+| [Websites for Businesses](https://websites-preview.netlify.app) | 14 complete client-style sites (restaurant, clinic, car rental, gym, salon, travel, shop, hotel, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
 | [Chkoba](https://github.com/naniiic137/Chkoba) | The Tunisian card game online: play a bot or 2–4 friends in real time | JS · Firebase |
 | [Custom Wordle V2](https://github.com/naniiic137/CustomWordleV2) | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
 | [Intern Manager](https://github.com/naniiic137/Employer-Manager) | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
