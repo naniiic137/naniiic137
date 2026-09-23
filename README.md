@@ -151,7 +151,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 | [Intern Manager](https://github.com/naniiic137/Employer-Manager) | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
 | [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer | JS · WebRTC |
 | [Meme Guardian Bot](https://github.com/naniiic137/Discord-moderation-bot) | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
-| [Game Update Bot](https://github.com/naniiic137/FortniteUpdate) | Watches Fortnite, VALORANT & CS2 versions and pings Discord — free, via Actions cron | Python · GitHub Actions |
+| [Game Update Bot](https://github.com/naniiic137/game-update-bot) | Watches Fortnite, VALORANT & CS2 versions and pings Discord — free, via Actions cron | Python · GitHub Actions |
 | [MicroSaving](https://github.com/naniiic137/MicroSaving) | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
 | [Ball Simulation](https://github.com/naniiic137/ball_simulation) | Physics battle sandbox with in-game Python scripting for damage logic | Python · Pygame |
 | [Dice Game](https://github.com/naniiic137/Dice_Game) | Roll until all six dice match — web app with a global leaderboard, plus a desktop version | Flask · Pygame |
