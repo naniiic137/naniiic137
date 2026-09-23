@@ -101,9 +101,9 @@ URL shortener built as a system-design answer: cache-first redirects (~8k/s loca
 <td width="50%" valign="top">
 
 ### 🌫️ Fog Chess
-Real-time chess where you can't see the enemy pieces, only that a square is occupied. Secret setups, private guess-pins, and a Chaos mode with fairy pieces on boards up to 10×10. The server enforces full chess rules and sends each player only their fogged view.
+Real-time chess where you can't see the enemy pieces, only that a square is occupied. Secret setups, private guess-pins, and a Chaos mode with fairy pieces on boards up to 10×10. The server enforces full chess rules and sends each player only their fogged view. A reload or dropped connection doesn't end the game (60 s seat hold), with a full reveal at the end and 11 automated tests.
 
-`Node.js` `Socket.io` `Express` `chess.js`
+`Node.js` `Socket.io` `Express` `chess.js` `node:test`
 <br>[📦 Repo](https://github.com/naniiic137/fog-chess) · <sub>work in progress</sub>
 
 </td>
@@ -150,9 +150,9 @@ Live telemetry from a Raspberry Pi Pico to a browser dashboard over USB — Micr
 <td width="50%" valign="top">
 
 ### 🎭 Kalak (كلك)
-Real-time multiplayer party game for phones: write a fake answer to a trivia question, then spot the real one among your friends' bluffs. Server-authoritative state machine, 325 questions in Arabic and English.
+Real-time multiplayer party game for phones: write a fake answer to a trivia question, then spot the real one among your friends' bluffs. Server-authoritative state machine, 325 questions, full Arabic/English interface with RTL. Reload-proof seats, merged duplicate bluffs and 23 automated tests.
 
-`Node.js` `Socket.io` `Express`
+`Node.js` `Socket.io` `Express` `node:test`
 <br>[📦 Repo](https://github.com/naniiic137/Kalak)
 
 </td>
