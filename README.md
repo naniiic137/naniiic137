@@ -16,7 +16,7 @@
 ```yaml
 name:        Hamza Ben Ismail
 class:       Full-Stack Developer
-origin:      Sfax, Tunisia 🇹🇳
+origin:      Nabeul, Tunisia 🇹🇳
 guild:       The Orange Labz — Developer & Community Manager
 education:   B.Sc. Computer Science (Software Engineering), Faculty of Sciences of Sfax (2021–2025)
 main_quest:  Shipping products end-to-end — web platforms, bots, games, IoT and AI tools
