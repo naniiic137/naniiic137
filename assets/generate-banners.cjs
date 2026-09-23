@@ -183,10 +183,10 @@ const STYLE = `<style>
   text7(cv, name, 14 + 2, 22 + 2, P.purple, 2); // deep shadow
   text7(cv, name, 14 + 1, 22 + 1, P.pink, 2); // pink shadow
   text7(cv, name, 14, 22, P.ink, 2);
-  text5(cv, 'FULL-STACK ENGINEER · AI & AUTOMATION · GAME DEV', 14, 45, P.amber);
+  text5(cv, 'FULL-STACK DEVELOPER · AI & AUTOMATION · GAME DEV', 14, 45, P.amber);
   const endX = text5(cv, '> HAMZABENISMAIL.CLOUD-IP.CC', 14, 56, P.cyan);
 
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W * S}" height="${H * S}" shape-rendering="crispEdges" role="img" aria-label="Hamza Ben Ismail — Full-stack engineer, AI &amp; automation, game dev">
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W * S}" height="${H * S}" shape-rendering="crispEdges" role="img" aria-label="Hamza Ben Ismail — Full-stack developer, AI &amp; automation, game dev">
 ${STYLE}
 ${cv.rects()}
 ${twinkleSvg(twinklers)}

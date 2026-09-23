@@ -1,5 +1,5 @@
 <a href="https://www.hamzabenismail.cloud-ip.cc">
-  <img src="./assets/header.svg" alt="Hamza Ben Ismail — Full-stack engineer · AI & automation · Game dev" width="100%">
+  <img src="./assets/header.svg" alt="Hamza Ben Ismail — Full-stack developer · AI & automation · Game dev" width="100%">
 </a>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ```yaml
 name:        Hamza Ben Ismail
-class:       Full-Stack Engineer
+class:       Full-Stack Developer
 origin:      Sfax, Tunisia 🇹🇳
 guild:       The Orange Labz — Developer & Community Manager
 education:   B.Sc. Computer Science, Faculty of Sciences of Sfax (2025)
