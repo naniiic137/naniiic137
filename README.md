@@ -80,6 +80,26 @@ AI copilot for job applications: CV vs job ad → grounded match score, skill ga
 <tr>
 <td width="50%" valign="top">
 
+### 🔏 CipherChat
+End-to-end encrypted real-time chat where the relay server only ever sees ciphertext — and a live "what the server sees" panel proves it. X3DH-style handshake + Double Ratchet, Argon2id passphrases, AES-GCM / ChaCha20 / XChaCha20, signed messages, encrypted files and safety numbers. 257 tests, including RFC test vectors.
+
+`TypeScript` `React` `Node.js` `WebSocket` `Cryptography`
+<br>[📦 Repo](https://github.com/naniiic137/cipher-chat)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 LinkPulse
+URL shortener built as a system-design answer: cache-first redirects (~8k/s locally), a Redis Streams → PostgreSQL click pipeline, HyperLogLog unique visitors, atomic Lua rate limits and SSRF protection. 146 tests, run in CI against real PostgreSQL and Redis.
+
+`TypeScript` `Fastify` `Redis` `PostgreSQL` `React`
+<br>[📦 Repo](https://github.com/naniiic137/linkpulse)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌫️ Fog Chess
 Real-time chess where you can't see the enemy pieces, only that a square is occupied. Secret setups, private guess-pins, and a Chaos mode with fairy pieces on boards up to 10×10. The server enforces full chess rules and sends each player only their fogged view.
 
