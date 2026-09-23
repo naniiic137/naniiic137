@@ -64,7 +64,7 @@ I like owning a product from the database to the last pixel. Right now I'm build
 Real-time chess where you can't see the enemy pieces, only that a square is occupied. Secret setups, private guess-pins, and a Chaos mode with fairy pieces on boards up to 10×10. The server enforces full chess rules and sends each player only their fogged view.
 
 `Node.js` `Socket.io` `Express` `chess.js`
-<br><sub>🔒 Private repository</sub>
+<br>[📦 Repo](https://github.com/naniiic137/fog-chess) · <sub>work in progress</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ The classic Tunisian card game as a real-time multiplayer web app: 2-player or 4
 <td width="50%" valign="top">
 
 ### 🔤 Custom Wordle V2
-A Wordle clone built around a puzzle creator: 33 game modes in 5 categories, configurable rules and encrypted shareable puzzle links.
+A Wordle clone built around a puzzle creator: 33 game modes in 8 categories, configurable rules and encrypted shareable puzzle links.
 
 `JavaScript` `Netlify`
 <br>[📦 Repo](https://github.com/naniiic137/CustomWordleV2) · [🎮 Play](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html)
