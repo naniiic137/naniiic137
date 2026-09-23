@@ -84,7 +84,7 @@ AI copilot for job applications: CV vs job ad → grounded match score, skill ga
 End-to-end encrypted real-time chat where the relay server only ever sees ciphertext — and a live "what the server sees" panel proves it. X3DH-style handshake + Double Ratchet, Argon2id passphrases, AES-GCM / ChaCha20 / XChaCha20, signed messages, encrypted files and safety numbers. 257 tests, including RFC test vectors.
 
 `TypeScript` `React` `Node.js` `WebSocket` `Cryptography`
-<br>[📦 Repo](https://github.com/naniiic137/cipher-chat)
+<br>[▶ Live demo](https://naniiic137.github.io/cipher-chat/) · [📦 Repo](https://github.com/naniiic137/cipher-chat)
 
 </td>
 <td width="50%" valign="top">
