@@ -60,6 +60,26 @@ I like owning a product from the database to the last pixel. Right now I'm build
 <tr>
 <td width="50%" valign="top">
 
+### 📋 ApplyTrack
+Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an automatic status timeline, interviews and a stats dashboard. JWT-secured Spring Boot REST API with per-user data isolation, Flyway + PostgreSQL, Docker Compose and 53 automated tests in CI.
+
+`Spring Boot` `Java` `React` `TypeScript` `PostgreSQL` `Docker`
+<br>[📦 Repo](https://github.com/naniiic137/applytrack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 JobFit AI
+AI copilot for job applications: CV vs job ad → grounded match score, skill gaps, tailored CV bullets and an EN/FR cover letter. Four pluggable providers (offline, Gemini, Ollama, OpenAI-compatible) behind one zod-validated schema — and every claim must quote the CV. 97 tests.
+
+`React` `TypeScript` `LLMs` `Prompt engineering` `zod`
+<br>[📦 Repo](https://github.com/naniiic137/jobfit-ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌫️ Fog Chess
 Real-time chess where you can't see the enemy pieces, only that a square is occupied. Secret setups, private guess-pins, and a Chaos mode with fairy pieces on boards up to 10×10. The server enforces full chess rules and sends each player only their fogged view.
 
@@ -100,20 +120,20 @@ A tap-to-earn crypto game and the ToLZ NFT collection, launched on OpenSea. I bu
 <tr>
 <td width="50%" valign="top">
 
-### 🃏 Chkoba (شكوبة)
-The classic Tunisian card game as a real-time multiplayer web app: 2-player or 4-player team modes and full scoring. Share a link and play from anywhere.
+### 📟 PicoPulse
+Live telemetry from a Raspberry Pi Pico to a browser dashboard over USB — MicroPython firmware streaming a versioned JSON protocol, read with the Web Serial API. Live canvas charts, alerts, device control, and a simulator so anyone can try it.
 
-`JavaScript` `Firebase Realtime DB`
-<br>[📦 Repo](https://github.com/naniiic137/Chkoba)
+`MicroPython` `Raspberry Pi Pico` `TypeScript` `Web Serial`
+<br>[📦 Repo](https://github.com/naniiic137/picopulse)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔤 Custom Wordle V2
-A Wordle clone built around a puzzle creator: 33 game modes in 8 categories, configurable rules and encrypted shareable puzzle links.
+### 🎭 Kalak (كلك)
+Real-time multiplayer party game for phones: write a fake answer to a trivia question, then spot the real one among your friends' bluffs. Server-authoritative state machine, 325 questions in Arabic and English.
 
-`JavaScript` `Netlify`
-<br>[📦 Repo](https://github.com/naniiic137/CustomWordleV2) · [🎮 Play](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html)
+`Node.js` `Socket.io` `Express`
+<br>[📦 Repo](https://github.com/naniiic137/Kalak)
 
 </td>
 </tr>
@@ -125,6 +145,10 @@ A Wordle clone built around a puzzle creator: 33 game modes in 8 categories, con
 
 | Mission | What it does | Stack |
 |---|---|---|
+| [Websites for Businesses](https://websites-preview.netlify.app) | 9 complete client-style sites (restaurant, QR menu, shop, real estate, hotel, delivery, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
+| [Chkoba](https://github.com/naniiic137/Chkoba) | The Tunisian card game online: play a bot or 2–4 friends in real time | JS · Firebase |
+| [Custom Wordle V2](https://github.com/naniiic137/CustomWordleV2) | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
+| [Intern Manager](https://github.com/naniiic137/Employer-Manager) | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
 | [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer | JS · WebRTC |
 | [Meme Guardian Bot](https://github.com/naniiic137/Discord-moderation-bot) | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
 | [Game Update Bot](https://github.com/naniiic137/FortniteUpdate) | Watches Fortnite, VALORANT & CS2 versions and pings Discord — free, via Actions cron | Python · GitHub Actions |
