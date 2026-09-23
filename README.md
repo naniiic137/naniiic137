@@ -18,7 +18,7 @@ name:        Hamza Ben Ismail
 class:       Full-Stack Developer
 origin:      Sfax, Tunisia 🇹🇳
 guild:       The Orange Labz — Developer & Community Manager
-education:   B.Sc. Computer Science, Faculty of Sciences of Sfax (2025)
+education:   B.Sc. Computer Science (Software Engineering), Faculty of Sciences of Sfax (2021–2025)
 main_quest:  Shipping products end-to-end — web platforms, bots, games, IoT and AI tools
 side_quests: [LLMs & AI agents, blockchain games, embedded systems]
 fun_fact:    5 years of Pascal before anything modern — begin ... end;
@@ -81,16 +81,16 @@ Hides secret messages inside realistic chess positions. A SHA-256 mapping turns 
 <td width="50%" valign="top">
 
 ### 🚗 LogiServ
-My final-year project: a full-stack fleet maintenance and operations platform. React + TypeScript, a Spring Boot REST API, Keycloak SSO, Redis + Firebase real-time notifications, Dockerized behind Nginx.
+Built during my capstone internship at STEG: a platform to manage and track maintenance interventions on buildings and vehicles. React + TypeScript, Spring Boot microservices, PostgreSQL, Keycloak SSO with LDAP roles, Redis + Firebase notifications, Dockerized behind Nginx.
 
 `React` `TypeScript` `Spring Boot` `Keycloak` `Docker`
-<br><sub>🔒 Private repository · Apr–Jun 2025</sub>
+<br><sub>🔒 Private repository · Capstone internship at STEG · 04/2025 – 07/2025</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍊 Orange Crush · The Orange Labz
-A tap-to-earn crypto game and the ToLZ NFT collection, launched on OpenSea. I work on it as a developer and community manager for a 1,000+ player Discord.
+A tap-to-earn crypto game and the ToLZ NFT collection, launched on OpenSea. I build smart contracts, game mechanics and backend infrastructure, and manage a 1,000+ member Discord.
 
 `Game Dev` `Blockchain` `NFT` `Community`
 <br>[🎮 Play](https://orangecrush.app/game) · [🏢 Studio](https://theorangelabz.com)
@@ -140,11 +140,11 @@ A Wordle clone built around a puzzle creator: 33 game modes in 5 categories, con
 
 | Status | Quest | Guild | When |
 |:---:|---|---|---|
-| ▶️ | **Developer & Community Manager** — Orange Crush game, ToLZ NFTs, 1,000+ community | The Orange Labz | 2025 – now |
-| ✅ | **LogiServ** — full-stack fleet management platform (final-year project) | Academic | Apr – Jun 2025 |
-| ✅ | **B.Sc. Computer Science** | Faculty of Sciences of Sfax | 2022 – 2025 |
-| ✅ | **Software Developer Intern** — employee management app for HR | Tunisie Telecom | 2024 |
+| ▶️ | **Developer & Community Manager** — Orange Crush game, ToLZ NFTs, 1,000+ community | The Orange Labz | 2025 – present |
+| ✅ | **Capstone Intern — Full-Stack Developer** — built LOGISERV, a maintenance-intervention platform | STEG | 04/2025 – 07/2025 |
+| ✅ | **B.Sc. Computer Science** — Software Engineering | Faculty of Sciences of Sfax | 2021 – 2025 |
 | ✅ | **Pascal Programming** — 5 years of algorithms & logic | Education | 2019 – 2024 |
+| ✅ | **Software Development Intern** — employee management app + Delphi internship tracker | Tunisie Telecom | 08/2022 – 09/2022 |
 
 ## ▸ 05 // STATS
 
