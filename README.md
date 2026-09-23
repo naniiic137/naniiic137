@@ -144,7 +144,7 @@ A Wordle clone built around a puzzle creator: 33 game modes in 8 categories, con
 | ✅ | **Capstone Intern — Full-Stack Developer** — built LOGISERV, a maintenance-intervention platform | STEG | 04/2025 – 07/2025 |
 | ✅ | **B.Sc. Computer Science** — Software Engineering | Faculty of Sciences of Sfax | 2021 – 2025 |
 | ✅ | **Pascal Programming** — 5 years of algorithms & logic | Education | 2019 – 2024 |
-| ✅ | **Software Development Intern** — employee management app + Delphi internship tracker | Tunisie Telecom | 08/2022 – 09/2022 |
+| ✅ | **Software Development Intern** — [intern management desktop app](https://github.com/naniiic137/Employer-Manager) (Lazarus + SQLite) | Tunisie Telecom | 08/2022 – 09/2022 |
 
 ## ▸ 05 // STATS
 
