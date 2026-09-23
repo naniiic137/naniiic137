@@ -110,7 +110,7 @@ Built during my capstone internship at STEG: a platform to manage and track main
 <td width="50%" valign="top">
 
 ### 🍊 Orange Crush · The Orange Labz
-A tap-to-earn crypto game and the ToLZ NFT collection, launched on OpenSea. I build smart contracts, game mechanics and backend infrastructure, and manage a 1,000+ member Discord.
+A tap-to-earn crypto game and the ToLZ NFT collection, launched on OpenSea. I build game mechanics and backend infrastructure, work on smart-contract integration, and manage a 1,000+ member Discord.
 
 `Game Dev` `Blockchain` `NFT` `Community`
 <br>[🎮 Play](https://orangecrush.app/game) · [🏢 Studio](https://theorangelabz.com)
