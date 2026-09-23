@@ -177,7 +177,7 @@ const STYLE = `<style>
   ring(true);
 
   // text block
-  text5(cv, 'PLAYER 1 READY · SFAX, TUNISIA', 14, 10, P.lime);
+  text5(cv, 'PLAYER 1 READY · NABEUL, TUNISIA', 14, 10, P.lime);
   cv.set(10, 11, P.lime); cv.set(11, 11, P.lime); cv.set(10, 12, P.lime); cv.set(11, 12, P.lime);
   const name = 'HAMZA BEN ISMAIL';
   text7(cv, name, 14 + 2, 22 + 2, P.purple, 2); // deep shadow
