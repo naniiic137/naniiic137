@@ -113,7 +113,7 @@ Real-time chess where you can't see the enemy pieces, only that a square is occu
 Hides secret messages inside realistic chess positions. A SHA-256 mapping turns characters into squares, the filename reads like real PGN notation, and decoy pieces make the board convincing. Ships as a Python CLI and a browser app.
 
 `Python` `JavaScript` `SHA-256`
-<br>[📦 Repo](https://github.com/naniiic137/ChessCipher)
+<br>[▶ Live demo](https://naniiic137.github.io/ChessCipher/) · [📦 Repo](https://github.com/naniiic137/ChessCipher)
 
 </td>
 </tr>
@@ -166,10 +166,10 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 | Mission | What it does | Stack |
 |---|---|---|
 | [Websites for Businesses](https://websites-preview.netlify.app) | 14 complete client-style sites (restaurant, clinic, car rental, gym, salon, travel, shop, hotel, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
-| [Chkoba](https://github.com/naniiic137/Chkoba) | The Tunisian card game online: play a bot or 2–4 friends in real time | JS · Firebase |
+| [Chkoba](https://github.com/naniiic137/Chkoba) | The Tunisian card game online: play a bot or 2–4 friends in real time · [▶ play](https://chkooba.netlify.app) | JS · Firebase |
 | [Custom Wordle V2](https://github.com/naniiic137/CustomWordleV2) | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
 | [Intern Manager](https://github.com/naniiic137/Employer-Manager) | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
-| [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer | JS · WebRTC |
+| [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer · [▶ play](https://naniiic137.github.io/Custom-Checkers/) | JS · WebRTC |
 | [Meme Guardian Bot](https://github.com/naniiic137/Discord-moderation-bot) | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
 | [Game Update Bot](https://github.com/naniiic137/game-update-bot) | Watches Fortnite, VALORANT & CS2 versions and pings Discord — free, via Actions cron | Python · GitHub Actions |
 | [MicroSaving](https://github.com/naniiic137/MicroSaving) | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
