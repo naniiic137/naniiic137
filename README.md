@@ -175,7 +175,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 | [MicroSaving](https://github.com/naniiic137/MicroSaving) | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
 | [Ball Simulation](https://github.com/naniiic137/ball_simulation) | Physics battle sandbox with in-game Python scripting for damage logic | Python · Pygame |
 | [Dice Game](https://github.com/naniiic137/Dice_Game) | Roll until all six dice match — web app with a global leaderboard, plus a desktop version | Flask · Pygame |
-| [Simple Inventory](https://github.com/naniiic137/simple-inventory) | Desktop sales & inventory manager with CSV export and cloud-synced SQLite | Python · ttkbootstrap |
+| [Simple Sales Manager](https://github.com/naniiic137/simple-sales-manager) | Desktop sales log: record, search and export sales to CSV, with a unit-tested SQLite layer | Python · ttkbootstrap · SQLite |
 
 <p align="center"><a href="https://github.com/naniiic137?tab=repositories">🔍 Browse all repositories →</a></p>
 </details>
