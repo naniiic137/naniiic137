@@ -1,239 +1,167 @@
-<pre align="center">
-.__   __.      ___      .__   __.  __   __   __  
-|  \ |  |     /   \     |  \ |  | |  | |  | |  | 
-|   \|  |    /  ^  \    |   \|  | |  | |  | |  | 
-|  . `  |   /  /_\  \   |  . `  | |  | |  | |  | 
-|  |\   |  /  _____  \  |  |\   | |  | |  | |  | 
-|__| \__| /__/     \__\ |__| \__| |__| |__| |__| 
-</pre>
+<a href="https://www.hamzabenismail.cloud-ip.cc">
+  <img src="./assets/header.svg" alt="Hamza Ben Ismail — Full-stack engineer · AI & automation · Game dev" width="100%">
+</a>
 
 <p align="center">
-  <a href="mailto:hamza.benismail.6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/hamzabenismail1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://naniiic137.github.io/hamza.ben.ismail/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/naniiic137"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://buymeacoffee.com/naniii"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://www.hamzabenismail.cloud-ip.cc"><img src="https://img.shields.io/badge/▶_PORTFOLIO-3fd0f0?style=for-the-badge&logoColor=05040c" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/hamzabenismail1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hamza.benismail.6@gmail.com"><img src="https://img.shields.io/badge/Email-ff6f91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://buymeacoffee.com/naniii"><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffd97a?style=for-the-badge&logo=buymeacoffee&logoColor=05040c" alt="Buy Me A Coffee"></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=naniiic137&style=flat-square&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=naniiic137&style=flat-square&color=8446b6&label=VISITORS" alt="Profile views">
 </p>
 
----
+## ▸ 01 // PLAYER PROFILE
 
-## ⚡ About Me
+```yaml
+name:        Hamza Ben Ismail
+class:       Full-Stack Engineer
+origin:      Sfax, Tunisia 🇹🇳
+guild:       The Orange Labz — Developer & Community Manager
+education:   B.Sc. Computer Science, Faculty of Sciences of Sfax (2025)
+main_quest:  Shipping products end-to-end — web platforms, bots, games, IoT and AI tools
+side_quests: [LLMs & AI agents, blockchain games, embedded systems]
+fun_fact:    5 years of Pascal before anything modern — begin ... end;
+```
+
+I like owning a product from the database to the last pixel. Right now I'm building the **Orange Crush** tap-to-earn game and the **ToLZ** NFT collection at The Orange Labz, where I also run a Discord community of **1,000+ players**. On the side I'm going deep on **LLMs, AI agents and automation**.
+
+## ▸ 02 // LOADOUT
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=CS+Graduate+%7C+Full-Stack+Engineer;AI+%26+LLM+Specialist;Blockchain+%26+NFT+Builder;Open+Source+Enthusiast" alt="Typing SVG">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,php&perline=7" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=react,redux,materialui,threejs,vite,html,css&perline=7" alt="Frontend"><br>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,postgres,mysql,redis,sqlite,firebase&perline=9" alt="Backend & data"><br>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions,discordjs,selenium,raspberrypi,arduino&perline=9" alt="DevOps, tools & hardware">
 </p>
-
-Hey there! I'm **Hamza Ben Ismail** — a Computer Science Graduate from the **Faculty of Sciences of Sfax**, Tunisia. I build things that live at the intersection of **full-stack web**, **desktop applications**, **IoT**, **blockchain**, and **AI automation**.
-
-🔭 Currently working on **crypto game development** at **The Orange Labz** — building the ToLZ NFT ecosystem and managing a 1000+ player Discord community.  
-🌱 Constantly exploring **LLMs, AI agents, and prompt engineering** to build smarter systems.  
-⚡ Fun fact: I learned **Pascal for 5 years** before touching anything modern — those `begin...end` blocks built my foundation.
-
----
-
-## 🛠️ Tech Stack
-
-<h3 align="center">Languages</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=fff" alt="Java">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" alt="C++">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff" alt="C">
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" alt="PHP">
-<img src="https://img.shields.io/badge/Pascal-E61B23?logo=delphi&logoColor=fff" alt="Pascal/Delphi">
+  <img src="https://img.shields.io/badge/Pascal_/_Delphi-E61B23?style=flat-square&logo=delphi&logoColor=white" alt="Pascal / Delphi">
+  <img src="https://img.shields.io/badge/Keycloak-311C87?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/OpenAI_/_LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI / LLMs">
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL">
 </p>
 
-<h3 align="center">Frontend</h3>
+## ▸ 03 // FEATURED MISSIONS
+
+<a href="https://www.hamzabenismail.cloud-ip.cc">
+  <img src="./assets/portfolio-hero.jpg" alt="HBI-OS portfolio — pixel-art WebGL universe" width="100%">
+</a>
+
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=fff" alt="Redux">
-<img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
+  <b>🪐 HBI-OS — my portfolio.</b> A real-time Three.js universe rendered at low resolution and dithered to a 24-color palette, so the 3D reads as true pixel art.<br>
+  It has a scroll-driven camera, procedurally generated sprites, an interactive terminal, a chiptune synth and a hidden arcade game.<br>
+  <a href="https://www.hamzabenismail.cloud-ip.cc"><b>▶ Press start</b></a> · <a href="https://github.com/naniiic137/hamza.ben.ismail">Source</a>
 </p>
-
-<h3 align="center">Backend & Database</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL">
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" alt="Redis">
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase">
-</p>
-
-<h3 align="center">DevOps & Tools</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
-<img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff" alt="NGINX">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git">
-<img src="https://img.shields.io/badge/Keycloak-311C87?logo=keycloak&logoColor=fff" alt="Keycloak">
-<img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff" alt="WebRTC">
-<img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff" alt="Discord.js">
-</p>
-
-<h3 align="center">AI & Embedded</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" alt="OpenAI">
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium">
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=fff" alt="Raspberry Pi">
-<img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff" alt="ESP32">
-<img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="Arduino">
-</p>
-
----
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
-  <td width="50%">
-    <h3 align="center">🌫️ Fog Chess</h3>
-    <p align="center">
-      Hidden-information chess variant with fog of war<br>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
-      <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff" alt="Socket.io">
-      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express">
-    </p>
-    <p align="center">Two-player LAN chess where opponent pieces are invisible. Secret arrangement, private guess-pins, Chaos mode with fairy pieces (Amazon, Nightrider) and boards up to 10x10.</p>
-    <p align="center"><em>Private Repository</em></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">🔐 ChessCipher</h3>
-    <p align="center">
-      Hide secret messages inside chess boards<br>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
-      <img src="https://img.shields.io/badge/SHA--256-4A154B?logoColor=fff" alt="SHA-256">
-    </p>
-    <p align="center">Steganographic tool that encodes text into realistic chess positions using SHA-256 mapping. Python CLI + interactive browser app with drag-and-drop.</p>
-    <p align="center"><a href="https://github.com/naniiic137/ChessCipher">📦 Repo</a></p>
-  </td>
+<td width="50%" valign="top">
+
+### 🌫️ Fog Chess
+Real-time chess where you can't see the enemy pieces, only that a square is occupied. Secret setups, private guess-pins, and a Chaos mode with fairy pieces on boards up to 10×10. The server enforces full chess rules and sends each player only their fogged view.
+
+`Node.js` `Socket.io` `Express` `chess.js`
+<br><sub>🔒 Private repository</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 ChessCipher
+Hides secret messages inside realistic chess positions. A SHA-256 mapping turns characters into squares, the filename reads like real PGN notation, and decoy pieces make the board convincing. Ships as a Python CLI and a browser app.
+
+`Python` `JavaScript` `SHA-256`
+<br>[📦 Repo](https://github.com/naniiic137/ChessCipher)
+
+</td>
 </tr>
 <tr>
-  <td width="50%">
-    <h3 align="center">🚗 LogiServ</h3>
-    <p align="center">
-      Fleet maintenance & operational platform<br>
-      <em>Final Year Project — Apr–Jun 2025</em>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
-    </p>
-    <p align="center">Full-stack platform for vehicle fleet tracking. Keycloak auth, Redis caching, real-time Firebase notifications, NGINX deployment.</p>
-    <p align="center"><em>Private Repository</em></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">🎮 Orange Crush / The Orange Labz</h3>
-    <p align="center">
-      Tap-to-earn crypto game & ToLZ NFT ecosystem<br>
-      <em>2025 - Present</em>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff" alt="Blockchain">
-      <img src="https://img.shields.io/badge/NFT-FF6B35?logo=opensea&logoColor=fff" alt="NFT">
-      <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" alt="Discord">
-    </p>
-    <p align="center">Built a 1000+ player community. Launched ToLZ on OpenSea. Developing Orange Crush game ecosystem.</p>
-    <p align="center"><a href="https://orangecrush.app/game">🎮 Play</a> • <a href="https://theorangelabz.com">🏢 Studio</a></p>
-  </td>
+<td width="50%" valign="top">
+
+### 🚗 LogiServ
+My final-year project: a full-stack fleet maintenance and operations platform. React + TypeScript, a Spring Boot REST API, Keycloak SSO, Redis + Firebase real-time notifications, Dockerized behind Nginx.
+
+`React` `TypeScript` `Spring Boot` `Keycloak` `Docker`
+<br><sub>🔒 Private repository · Apr–Jun 2025</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍊 Orange Crush · The Orange Labz
+A tap-to-earn crypto game and the ToLZ NFT collection, launched on OpenSea. I work on it as a developer and community manager for a 1,000+ player Discord.
+
+`Game Dev` `Blockchain` `NFT` `Community`
+<br>[🎮 Play](https://orangecrush.app/game) · [🏢 Studio](https://theorangelabz.com)
+
+</td>
 </tr>
 <tr>
-  <td width="50%">
-    <h3 align="center">🃏 Chkoba (شكوبة)</h3>
-    <p align="center">
-      Multiplayer Tunisian card game<br>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase">
-      <img src="https://img.shields.io/badge/Real--Time-333333?logoColor=fff" alt="Real-Time">
-    </p>
-    <p align="center">Real-time multiplayer card game. Supports 2/4 player team modes with full Shkobba scoring mechanics across any network.</p>
-    <p align="center"><a href="https://github.com/naniiic137/Chkoba">📦 Repo</a></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">🔤 Custom WordleV2</h3>
-    <p align="center">
-      Wordle clone with 33 game modes<br>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS">
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff" alt="Netlify">
-      <img src="https://img.shields.io/badge/AES--128-4A154B?logoColor=fff" alt="Encryption">
-    </p>
-    <p align="center">Puzzle creator, encrypted link sharing, 33 game modes across 5 categories, serverless backend with Netlify Functions.</p>
-    <p align="center"><a href="https://github.com/naniiic137/CustomWordleV2">📦 Repo</a> • <a href="https://rainbow-jalebi-6d8f8c.netlify.app/creator.html">🎮 Demo</a></p>
-  </td>
+<td width="50%" valign="top">
+
+### 🃏 Chkoba (شكوبة)
+The classic Tunisian card game as a real-time multiplayer web app: 2-player or 4-player team modes and full scoring. Share a link and play from anywhere.
+
+`JavaScript` `Firebase Realtime DB`
+<br>[📦 Repo](https://github.com/naniiic137/Chkoba)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔤 Custom Wordle V2
+A Wordle clone built around a puzzle creator: 33 game modes in 5 categories, configurable rules and encrypted shareable puzzle links.
+
+`JavaScript` `Netlify`
+<br>[📦 Repo](https://github.com/naniiic137/CustomWordleV2) · [🎮 Play](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html)
+
+</td>
 </tr>
 </table>
 
+<details>
+<summary><b>➕ More missions</b></summary>
+<br>
+
+| Mission | What it does | Stack |
+|---|---|---|
+| [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer | JS · WebRTC |
+| [Meme Guardian Bot](https://github.com/naniiic137/Discord-moderation-bot) | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
+| [Game Update Bot](https://github.com/naniiic137/FortniteUpdate) | Watches Fortnite, VALORANT & CS2 versions and pings Discord — free, via Actions cron | Python · GitHub Actions |
+| [MicroSaving](https://github.com/naniiic137/MicroSaving) | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
+| [Ball Simulation](https://github.com/naniiic137/ball_simulation) | Physics battle sandbox with in-game Python scripting for damage logic | Python · Pygame |
+| [Dice Game](https://github.com/naniiic137/Dice_Game) | Roll until all six dice match — web app with a global leaderboard, plus a desktop version | Flask · Pygame |
+| [Simple Inventory](https://github.com/naniiic137/simple-inventory) | Desktop sales & inventory manager with CSV export and cloud-synced SQLite | Python · ttkbootstrap |
+
+<p align="center"><a href="https://github.com/naniiic137?tab=repositories">🔍 Browse all repositories →</a></p>
+</details>
+
+## ▸ 04 // QUEST LOG
+
+| Status | Quest | Guild | When |
+|:---:|---|---|---|
+| ▶️ | **Developer & Community Manager** — Orange Crush game, ToLZ NFTs, 1,000+ community | The Orange Labz | 2025 – now |
+| ✅ | **LogiServ** — full-stack fleet management platform (final-year project) | Academic | Apr – Jun 2025 |
+| ✅ | **B.Sc. Computer Science** | Faculty of Sciences of Sfax | 2022 – 2025 |
+| ✅ | **Software Developer Intern** — employee management app for HR | Tunisie Telecom | 2024 |
+| ✅ | **Pascal Programming** — 5 years of algorithms & logic | Education | 2019 – 2024 |
+
+## ▸ 05 // STATS
+
 <p align="center">
-  <a href="https://github.com/naniiic137?tab=repositories"><b>🔍 Explore all 26+ projects →</b></a>
-</p>
-
----
-
-## 💼 Experience
-
-| Where | What | When |
-|-------|------|------|
-| 🎮 **The Orange Labz** — Orange Crush Game | Developer & Community Manager (1000+ players) | 2025–Present |
-| 🚗 **LogiServ** — Academic Project | Full-Stack Fleet Management System | Apr–Jun 2025 |
-| 💼 **Tunisie Telecom** | Software Developer Intern — Employee Management App | 2024 |
-| 🎓 **Faculty of Sciences of Sfax** | Computer Science Graduate | 2022–2025 |
-| 📚 **Pascal Programming** | 5 Years of Algorithmic & Logic Foundation | 2019–2024 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naniiic137&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak">
-  <img src="https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api/top-langs/?username=naniiic137&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Langs">
+  <img src="https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api?username=naniiic137&show_icons=true&hide_border=true&border_radius=0&bg_color=0d0a1f&title_color=3fd0f0&text_color=f2f0ff&icon_color=ffd97a" height="170" alt="GitHub stats">
+  <img src="https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api/top-langs/?username=naniiic137&langs_count=8&layout=compact&hide_border=true&border_radius=0&bg_color=0d0a1f&title_color=3fd0f0&text_color=f2f0ff" height="170" alt="Top languages">
   <br>
-  <img src="https://github-readme-stats-nu-nine-nrznpz5xqn.vercel.app/api?username=naniiic137&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=naniiic137&hide_border=true&border_radius=0&background=0d0a1f&ring=3fd0f0&fire=ff6f91&currStreakNum=f2f0ff&sideNums=f2f0ff&currStreakLabel=ffd97a&sideLabels=a7a3c7&dates=6f6a92&stroke=3a2872" height="170" alt="GitHub streak">
 </p>
 
----
-
-## 🤝 Let's Connect
+## ▸ 06 // OPEN CHANNEL
 
 <p align="center">
-  I'm always open to collaborations, interesting projects, or just a good chat about tech.<br>
-  Whether it's crypto, AI agents, embedded systems, or a game of Tunisian cards — I'm in. 🃏
+  Always open to new opportunities and interesting collaborations — AI agents, crypto games, embedded systems,<br>
+  or a round of Chkoba. 🃏 The fastest way to reach me is <a href="mailto:hamza.benismail.6@gmail.com"><b>hamza.benismail.6@gmail.com</b></a>.
 </p>
 
-<p align="center">
-  <a href="mailto:hamza.benismail.6@gmail.com"><img src="https://img.shields.io/badge/Email-hamza.benismail.6%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
-  <br>
-  <a href="https://www.linkedin.com/in/hamzabenismail1/"><img src="https://img.shields.io/badge/LinkedIn-Hamza%20Ben%20Ismail-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://naniiic137.github.io/hamza.ben.ismail/"><img src="https://img.shields.io/badge/Portfolio-Retro%20Game%20Boy%20Style-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/naniii">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="BuyMeACoffee">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave">
-</p>
-
-<p align="center">
-  <i>📟 Inspired by my retro Game Boy portfolio — because code should be fun.</i>
-</p>
+<a href="https://www.hamzabenismail.cloud-ip.cc">
+  <img src="./assets/footer.svg" alt="Thanks for visiting — continue?" width="100%">
+</a>
