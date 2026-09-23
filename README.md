@@ -61,7 +61,7 @@ I like owning a product from the database to the last pixel. Right now I'm build
 <td width="50%" valign="top">
 
 ### 📋 ApplyTrack
-Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an automatic status timeline, interviews and a stats dashboard. JWT-secured Spring Boot REST API with per-user data isolation, Flyway + PostgreSQL, Docker Compose and 53 automated tests in CI.
+Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an automatic status timeline, interviews and a stats dashboard. JWT-secured Spring Boot REST API with per-user data isolation, Flyway + PostgreSQL, Docker Compose, 98 automated tests (86% backend coverage) and an end-to-end Docker smoke test in CI.
 
 `Spring Boot` `Java` `React` `TypeScript` `PostgreSQL` `Docker`
 <br>[📦 Repo](https://github.com/naniiic137/applytrack)
