@@ -60,7 +60,18 @@ I like owning a product from the database to the last pixel. Right now I'm build
 <tr>
 <td colspan="2" valign="top">
 
-### ✨ ReadmeGlow · <sub>newest</sub>
+### 🛸 UFO 40 · <sub>newest</sub>
+A joke "port" of **UFO 50 to the PlayStation Vita** that had to be rebuilt from scratch: a pretend 1980s console whose cartridges **play exactly like their UFO 50 originals**, with their own names, characters, art, music and levels. **Twelve games so far**, each in its UFO 50 slot, from a one-hit-death cave explorer to a lane-battle strategy game, a number-block puzzler, a party-guest deckbuilder and a train-heist stealth game. It runs on its own C engine (320×180 indexed framebuffer, 4-channel chiptune synth, 80 original tracks). One codebase runs on a modded Vita, Windows and the web. A headless runner drives 226 test scripts (1,715 checks) and makes every screenshot; solvers prove every puzzle room and mission can be won.
+
+`C11` `SDL2` `PS Vita (vitasdk)` `Emscripten` `GitHub Actions`
+<br>[▶ Play in the browser](https://naniiic137.github.io/ufo-40/) · [🎮 Vita .vpk](https://github.com/naniiic137/ufo-40/releases/latest) · [📦 Repo](https://github.com/naniiic137/ufo-40)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ✨ ReadmeGlow
 Drop any README.md, pick a GitHub repo or paste Markdown, and it becomes a designed web page: **15 hand-crafted themes × 5 layouts** (document, docs, landing, slides, magazine). Edit it in a real code editor **or directly on the designed page**, run Beautify with a before/after diff, get a health score with one-click fixes and an offline summary, then export to HTML, PDF, a social card or a zip, or **carry the theme onto GitHub itself** (SVG headers drawn in the theme's fonts). Open any repo's README from a short link like `naniiic137.github.io/readme-glow/github.com/owner/repo`. Everything stays in your browser. 1,379 tests.
 
 `React` `TypeScript` `Vite` `remark` `CodeMirror` `Web Workers`
