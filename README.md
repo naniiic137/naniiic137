@@ -42,6 +42,9 @@ I like owning a product from the database to the last pixel. Right now I'm build
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/OpenAI_/_LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI / LLMs">
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
 ## ▸ 03 // FEATURED MISSIONS
@@ -60,7 +63,7 @@ I like owning a product from the database to the last pixel. Right now I'm build
 <tr>
 <td colspan="2" valign="top">
 
-### 🛸 UFO 40 · <sub>newest</sub>
+### 🛸 UFO 40
 A joke "port" of **UFO 50 to the PlayStation Vita** that had to be rebuilt from scratch: a pretend 1980s console whose cartridges **play exactly like their UFO 50 originals** (each rebuilt from sourced research and checked by an independent review), with their own names, characters, art, music and levels. **Twenty-two games so far** in a 50-slot library, each in its UFO 50 slot, from a one-hit-death cave explorer to a lane-battle strategy game, a number-block puzzler, a party-guest deckbuilder and a train-heist stealth game. It runs on its own C engine (320×180 indexed framebuffer, 4-channel chiptune synth, 180+ original tracks). One codebase runs on a modded Vita, Windows and the web. A headless runner drives 660 test scripts (9,192 checks) and makes every screenshot; solvers prove every puzzle room and mission can be won.
 
 `C11` `SDL2` `PS Vita (vitasdk)` `Emscripten` `GitHub Actions`
@@ -76,6 +79,26 @@ Drop any README.md, pick a GitHub repo or paste Markdown, and it becomes a desig
 
 `React` `TypeScript` `Vite` `remark` `CodeMirror` `Web Workers`
 <br>[▶ Live demo](https://naniiic137.github.io/readme-glow/) · [📦 Repo](https://github.com/naniiic137/readme-glow)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏜️ Tunisia Air Quality Pipeline · <sub>new</sub>
+A daily **ETL pipeline** for air pollution and Saharan dust in **10 Tunisian cities**: Open-Meteo API → DuckDB → four SQL models → **8 data-quality checks** → a live dashboard. GitHub Actions runs it every morning, and a failed check stops the run before anything is published. Findings: on 2 days of Saharan dust, all 10 cities were over the WHO PM10 limit at once, and NO₂ is higher on weekdays in every city. 12 tests.
+
+`Python` `DuckDB` `SQL` `Plotly` `GitHub Actions`
+<br>[▶ Live dashboard](https://naniiic137.github.io/tunisia-air-pipeline/) · [📦 Repo](https://github.com/naniiic137/tunisia-air-pipeline)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Developer Survey Insights · <sub>new</sub>
+Salaries, remote work and AI use from **49,191 responses** to the Stack Overflow Developer Survey 2025, with a **North Africa** focus. Outliers removed per country (Tukey's fences), small samples pooled or hidden instead of shown as shaky medians. Findings: **74.7%** of North African developers use AI daily (50.6% worldwide), and JavaScript is used by 66% but kept by only 47%. 22 tests.
+
+`Python` `pandas` `Plotly` `matplotlib` `pytest`
+<br>[▶ Live dashboard](https://naniiic137.github.io/dev-survey-insights/) · [📦 Repo](https://github.com/naniiic137/dev-survey-insights)
 
 </td>
 </tr>
