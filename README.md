@@ -75,10 +75,10 @@ A joke "port" of **UFO 50 to the PlayStation Vita** that had to be rebuilt from 
 <td colspan="2" valign="top">
 
 ### ✨ ReadmeGlow
-Drop any README.md, pick a GitHub repo or paste Markdown, and it becomes a designed web page: **15 hand-crafted themes × 5 layouts** (document, docs, landing, slides, magazine). Edit it in a real code editor **or directly on the designed page**, run Beautify with a before/after diff, get a health score with one-click fixes and an offline summary, then export to HTML, PDF, a social card or a zip, or **carry the theme onto GitHub itself** (SVG headers drawn in the theme's fonts). Open any repo's README from a short link like `naniiic137.github.io/readme-glow/github.com/owner/repo`. Everything stays in your browser. 1,379 tests.
+Drop any README.md, pick a GitHub repo or paste Markdown, and it becomes a designed web page: **15 hand-crafted themes × 5 layouts** (document, docs, landing, slides, magazine). Edit it in a real code editor **or directly on the designed page**, run Beautify with a before/after diff, get a health score with one-click fixes and an offline summary, then export to HTML, PDF, a social card or a zip, or **carry the theme onto GitHub itself** (SVG headers drawn in the theme's fonts). Open any repo's README from a short link like `readme-glow.pages.dev/github.com/owner/repo`. Everything stays in your browser. 1,379 tests.
 
 `React` `TypeScript` `Vite` `remark` `CodeMirror` `Web Workers`
-<br>[▶ Live demo](https://naniiic137.github.io/readme-glow/) · [📦 Repo](https://github.com/naniiic137/readme-glow)
+<br>[▶ Live demo](https://readme-glow.pages.dev/) · 🔒 <sub>private repo</sub>
 
 </td>
 </tr>
@@ -118,7 +118,7 @@ Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an a
 AI copilot for job applications: CV vs job ad → grounded match score, skill gaps, tailored CV bullets and an EN/FR cover letter. Four pluggable providers (offline, Gemini, Ollama, OpenAI-compatible) behind one zod-validated schema — and every claim must quote the CV. 196 tests, including a golden-set evaluation.
 
 `React` `TypeScript` `LLMs` `Prompt engineering` `zod`
-<br>[📦 Repo](https://github.com/naniiic137/jobfit-ai)
+<br>[▶ Live demo](https://jobfit-ai-hbi.pages.dev/) · 🔒 <sub>private repo</sub>
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ AI copilot for job applications: CV vs job ad → grounded match score, skill ga
 End-to-end encrypted real-time chat where the relay server only ever sees ciphertext — and a live "what the server sees" panel proves it. X3DH-style handshake + Double Ratchet, Argon2id passphrases, AES-GCM / ChaCha20 / XChaCha20, signed messages, encrypted files and safety numbers. 257 tests, including RFC test vectors.
 
 `TypeScript` `React` `Node.js` `WebSocket` `Cryptography`
-<br>[▶ Live demo](https://naniiic137.github.io/cipher-chat/) · [📦 Repo](https://github.com/naniiic137/cipher-chat)
+<br>[▶ Live demo](https://cipher-chat.pages.dev/) · 🔒 <sub>private repo</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -158,7 +158,7 @@ Real-time chess where you can't see the enemy pieces, only that a square is occu
 Hides secret messages inside realistic chess positions. A SHA-256 mapping turns characters into squares, the filename reads like real PGN notation, and decoy pieces make the board convincing. Ships as a Python CLI and a browser app.
 
 `Python` `JavaScript` `SHA-256`
-<br>[▶ Live demo](https://naniiic137.github.io/ChessCipher/) · [📦 Repo](https://github.com/naniiic137/ChessCipher)
+<br>[▶ Live demo](https://chesscipher.pages.dev/) · 🔒 <sub>private repo</sub>
 
 </td>
 </tr>
@@ -189,7 +189,7 @@ A tap-to-earn crypto game and the ToLZ NFT collection, launched on OpenSea. I bu
 Live telemetry from a Raspberry Pi Pico to a browser dashboard over USB — MicroPython firmware streaming a versioned JSON protocol, read with the Web Serial API. Live canvas charts, alerts, device control, and a simulator so anyone can try it.
 
 `MicroPython` `Raspberry Pi Pico` `TypeScript` `Web Serial`
-<br>[📦 Repo](https://github.com/naniiic137/picopulse)
+<br>[▶ Live demo](https://picopulse.pages.dev/) · 🔒 <sub>private repo</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -216,7 +216,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 | Chkoba 🔒 | The Tunisian card game online: play a bot or 2–4 friends in real time · [▶ play](https://chkooba.netlify.app) | JS · Firebase |
 | [Custom Wordle V2](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html) 🔒 | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
 | Intern Manager 🔒 | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
-| [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer · [▶ play](https://naniiic137.github.io/Custom-Checkers/) | JS · WebRTC |
+| Custom Checkers 🔒 | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer · [▶ play](https://custom-checkers.pages.dev/) | JS · WebRTC |
 | Meme Guardian Bot 🔒 | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
 | [Game Update Bot](https://github.com/naniiic137/game-update-bot) | Watches Fortnite, VALORANT, CS2 & Deadlock and pings Discord — free, via Actions cron | Python · GitHub Actions |
 | MicroSaving 🔒 | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
