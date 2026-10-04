@@ -56,7 +56,7 @@ I like owning a product from the database to the last pixel. Right now I'm build
 <p align="center">
   <b>🪐 HBI-OS — my portfolio.</b> A real-time Three.js universe rendered at low resolution and dithered to a 24-color palette, so the 3D reads as true pixel art.<br>
   It has a scroll-driven camera, procedurally generated sprites, an interactive terminal, a chiptune synth and a hidden arcade game.<br>
-  <a href="https://www.hamzabenismail.cloud-ip.cc"><b>▶ Press start</b></a> · <a href="https://github.com/naniiic137/hamza.ben.ismail">Source</a>
+  <a href="https://www.hamzabenismail.cloud-ip.cc"><b>▶ Press start</b></a>
 </p>
 
 <table>
@@ -109,7 +109,7 @@ Salaries, remote work and AI use from **49,191 responses** to the Stack Overflow
 Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an automatic status timeline, interviews and a stats dashboard. JWT-secured Spring Boot REST API with per-user data isolation, Flyway + PostgreSQL, Docker Compose, 98 automated tests (86% backend coverage) and an end-to-end Docker smoke test in CI.
 
 `Spring Boot` `Java` `React` `TypeScript` `PostgreSQL` `Docker`
-<br>[📦 Repo](https://github.com/naniiic137/applytrack)
+<br>🔒 <sub>private repo — demo on request</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -138,7 +138,7 @@ End-to-end encrypted real-time chat where the relay server only ever sees cipher
 URL shortener built as a system-design answer: cache-first redirects (~8k/s locally), a Redis Streams → PostgreSQL click pipeline, HyperLogLog unique visitors, atomic Lua rate limits and SSRF protection. 146 tests, run in CI against real PostgreSQL and Redis.
 
 `TypeScript` `Fastify` `Redis` `PostgreSQL` `React`
-<br>[📦 Repo](https://github.com/naniiic137/linkpulse)
+<br>🔒 <sub>private repo — demo on request</sub>
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ URL shortener built as a system-design answer: cache-first redirects (~8k/s loca
 Real-time chess where you can't see the enemy pieces, only that a square is occupied. Secret setups, private guess-pins, and a Chaos mode with fairy pieces on boards up to 10×10. The server enforces full chess rules and sends each player only their fogged view. A reload or dropped connection doesn't end the game (60 s seat hold), with a full reveal at the end and 11 automated tests.
 
 `Node.js` `Socket.io` `Express` `chess.js` `node:test`
-<br>[📦 Repo](https://github.com/naniiic137/fog-chess) · <sub>work in progress</sub>
+<br>🔒 <sub>private repo — demo on request · work in progress</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -198,7 +198,7 @@ Live telemetry from a Raspberry Pi Pico to a browser dashboard over USB — Micr
 Real-time multiplayer party game for phones: write a fake answer to a trivia question, then spot the real one among your friends' bluffs. Server-authoritative state machine, 325 questions, full Arabic/English interface with RTL. Reload-proof seats, merged duplicate bluffs and 23 automated tests.
 
 `Node.js` `Socket.io` `Express` `node:test`
-<br>[📦 Repo](https://github.com/naniiic137/Kalak)
+<br>🔒 <sub>private repo — demo on request</sub>
 
 </td>
 </tr>
@@ -208,16 +208,18 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 <summary><b>➕ More missions</b></summary>
 <br>
 
+<sub>🔒 = private repo, code shown on request</sub>
+
 | Mission | What it does | Stack |
 |---|---|---|
-| [Websites for Businesses](https://websites-preview.netlify.app) | 14 complete client-style sites (restaurant, clinic, car rental, gym, salon, travel, shop, hotel, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
-| [Chkoba](https://github.com/naniiic137/Chkoba) | The Tunisian card game online: play a bot or 2–4 friends in real time · [▶ play](https://chkooba.netlify.app) | JS · Firebase |
-| [Custom Wordle V2](https://github.com/naniiic137/CustomWordleV2) | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
-| [Intern Manager](https://github.com/naniiic137/Employer-Manager) | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
+| [Websites for Businesses](https://websites-preview.netlify.app) 🔒 | 14 complete client-style sites (restaurant, clinic, car rental, gym, salon, travel, shop, hotel, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
+| Chkoba 🔒 | The Tunisian card game online: play a bot or 2–4 friends in real time · [▶ play](https://chkooba.netlify.app) | JS · Firebase |
+| [Custom Wordle V2](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html) 🔒 | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
+| Intern Manager 🔒 | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
 | [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer · [▶ play](https://naniiic137.github.io/Custom-Checkers/) | JS · WebRTC |
-| [Meme Guardian Bot](https://github.com/naniiic137/Discord-moderation-bot) | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
+| Meme Guardian Bot 🔒 | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
 | [Game Update Bot](https://github.com/naniiic137/game-update-bot) | Watches Fortnite, VALORANT, CS2 & Deadlock and pings Discord — free, via Actions cron | Python · GitHub Actions |
-| [MicroSaving](https://github.com/naniiic137/MicroSaving) | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
+| MicroSaving 🔒 | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
 | [Ball Simulation](https://github.com/naniiic137/ball_simulation) | Physics battle sandbox with in-game Python scripting for damage logic | Python · Pygame |
 | [Dice Game](https://github.com/naniiic137/Dice_Game) | Roll until all six dice match — web app with a global leaderboard, plus a desktop version | Flask · Pygame |
 | [Simple Sales Manager](https://github.com/naniiic137/simple-sales-manager) | Desktop sales log: record, search and export sales to CSV, with a unit-tested SQLite layer | Python · ttkbootstrap · SQLite |
@@ -233,7 +235,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 | ✅ | **Capstone Intern — Full-Stack Developer** — built LOGISERV, a maintenance-intervention platform | STEG | 04/2025 – 07/2025 |
 | ✅ | **B.Sc. Computer Science** — Software Engineering | Faculty of Sciences of Sfax | 2021 – 2025 |
 | ✅ | **Pascal Programming** — 5 years of algorithms & logic | Education | 2019 – 2024 |
-| ✅ | **Software Development Intern** — [intern management desktop app](https://github.com/naniiic137/Employer-Manager) (Lazarus + SQLite) | Tunisie Telecom | 08/2022 – 09/2022 |
+| ✅ | **Software Development Intern** — intern management desktop app (Lazarus + SQLite) | Tunisie Telecom | 08/2022 – 09/2022 |
 
 ## ▸ 05 // STATS
 
