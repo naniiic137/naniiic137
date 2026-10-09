@@ -83,6 +83,17 @@ Drop any README.md, pick a GitHub repo or paste Markdown, and it becomes a desig
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+### 📡 FleetWatch · <sub>new</sub>
+**Uptime and TLS monitoring for my 10 live sites**, built the way a real ops team would. A dependency-free Python probe exposes Prometheus metrics; **Prometheus, Alertmanager and Grafana** run in Docker Compose; a **hardened Helm chart** (non-root, read-only filesystem, NetworkPolicy) and a **Terraform** module deploy it to Kubernetes. CI spins up a **real kind cluster** on every push, and every alert rule has unit tests. A **Cloudflare Worker** checks all 10 sites every 5 minutes and serves a public status page, designed to fit the free tier (288 of 1,000 daily writes). 76 tests.
+
+`Python` `Prometheus` `Docker` `Kubernetes` `Helm` `Terraform` `Cloudflare Workers`
+<br>[▶ Live status](https://fleetwatch.hamza-benismail-6.workers.dev) · [📦 Repo](https://github.com/naniiic137/fleetwatch)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏜️ Tunisia Air Quality Pipeline · <sub>new</sub>
