@@ -213,7 +213,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 | Mission | What it does | Stack |
 |---|---|---|
 | [Websites for Businesses](https://websites-preview.netlify.app) 🔒 | 14 complete client-style sites (restaurant, clinic, car rental, gym, salon, travel, shop, hotel, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
-| Chkoba 🔒 | The Tunisian card game online: play a bot or 2–4 friends in real time, with a server referee so nobody can peek · [▶ play](https://chkooba.pages.dev/) | JS · Cloudflare Workers |
+| [Chkoba](https://github.com/naniiic137/Chkoba) | The Tunisian card game online: play a bot or 2–4 friends in real time, with a server referee so nobody can peek · [▶ play](https://chkooba.pages.dev/) | JS · Cloudflare Workers |
 | [Custom Wordle V2](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html) 🔒 | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
 | Intern Manager 🔒 | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
 | [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer · [▶ play](https://custom-checkers.pages.dev/) | JS · WebRTC |
