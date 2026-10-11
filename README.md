@@ -229,6 +229,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 | [Custom Wordle V2](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html) 🔒 | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
 | Intern Manager 🔒 | Desktop app built during my Tunisie Telecom internship to manage intern records | Lazarus · SQLite |
 | [Custom Checkers](https://github.com/naniiic137/Custom-Checkers) | Checkers with 6 king modes, a board editor, shareable rule links and P2P multiplayer · [▶ play](https://custom-checkers.pages.dev/) | JS · WebRTC |
+| [Super Tic-Tac-Toe](https://github.com/naniiic137/super-tic-tac-toe) | Tic-tac-toe inside tic-tac-toe: a Monte Carlo tree search bot (3 levels), online matches by link, or 2 players on one device · [▶ play](https://super-ttt.pages.dev/) | JS · MCTS · Cloudflare Workers |
 | [Meme Guardian Bot](https://github.com/naniiic137/Discord-moderation-bot) | Discord moderation: daily limits, cooldowns, lockdowns, an admin dashboard | Node.js · Discord.js |
 | [Game Update Bot](https://github.com/naniiic137/game-update-bot) | Watches Fortnite, VALORANT, CS2 & Deadlock and pings Discord — free, via Actions cron | Python · GitHub Actions |
 | MicroSaving 🔒 | Gamified savings plans as a PC dashboard, an installable PWA and printable sheets | Python · PWA |
