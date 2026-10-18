@@ -86,7 +86,7 @@ Drop any README.md, pick a GitHub repo or paste Markdown, and it becomes a desig
 <td colspan="2" valign="top">
 
 ### 📡 FleetWatch · <sub>new</sub>
-**Uptime and TLS monitoring for my 17 live sites**, built the way a real ops team would. A dependency-free Python probe exposes Prometheus metrics; **Prometheus, Alertmanager and Grafana** run in Docker Compose; a **hardened Helm chart** (non-root, read-only filesystem, NetworkPolicy) and a **Terraform** module deploy it to Kubernetes. CI spins up a **real kind cluster** on every push, and every alert rule has unit tests. A **Cloudflare Worker** checks all 17 sites every 5 minutes and serves a public status page, designed to fit the free tier (288 of 1,000 daily writes). 76 tests.
+**Uptime and TLS monitoring for my 16 live sites**, built the way a real ops team would. A dependency-free Python probe exposes Prometheus metrics; **Prometheus, Alertmanager and Grafana** run in Docker Compose; a **hardened Helm chart** (non-root, read-only filesystem, NetworkPolicy) and a **Terraform** module deploy it to Kubernetes. CI spins up a **real kind cluster** on every push, and every alert rule has unit tests. A **Cloudflare Worker** checks all 16 sites every 5 minutes and serves a public status page, designed to fit the free tier (288 of 1,000 daily writes). 76 tests.
 
 `Python` `Prometheus` `Docker` `Kubernetes` `Helm` `Terraform` `Cloudflare Workers`
 <br>[▶ Live status](https://fleetwatch.hamza-benismail-6.workers.dev) · [📦 Repo](https://github.com/naniiic137/fleetwatch)
@@ -223,7 +223,7 @@ Real-time multiplayer party game for phones: write a fake answer to a trivia que
 
 | Mission | What it does | Stack |
 |---|---|---|
-| [FleetWatch](https://github.com/naniiic137/fleetwatch) | Uptime, latency and TLS-expiry monitoring for my live sites: a stdlib Python probe with Prometheus metrics, Prometheus + Alertmanager + Grafana, a hardened Helm chart, Terraform, kind end-to-end CI and a Cloudflare Worker status page checking 17 sites every 5 min · [▶ status](https://fleetwatch.hamza-benismail-6.workers.dev) | Python · Docker · Kubernetes · Terraform · Cloudflare Workers |
+| [FleetWatch](https://github.com/naniiic137/fleetwatch) | Uptime, latency and TLS-expiry monitoring for my live sites: a stdlib Python probe with Prometheus metrics, Prometheus + Alertmanager + Grafana, a hardened Helm chart, Terraform, kind end-to-end CI and a Cloudflare Worker status page checking 16 sites every 5 min · [▶ status](https://fleetwatch.hamza-benismail-6.workers.dev) | Python · Docker · Kubernetes · Terraform · Cloudflare Workers |
 | [Websites for Businesses](https://websites-preview.netlify.app) 🔒 | 14 complete client-style sites (restaurant, clinic, car rental, gym, salon, travel, shop, hotel, inventory app…) — responsive and offline-ready | HTML · CSS · JS |
 | [Chkoba](https://github.com/naniiic137/Chkoba) | The Tunisian card game online: play a bot or 2–4 friends in real time, with a server referee so nobody can peek · [▶ play](https://chkooba.pages.dev/) | JS · Cloudflare Workers |
 | [Custom Wordle V2](https://rainbow-jalebi-6d8f8c.netlify.app/creator.html) 🔒 | Puzzle creator with 33 modes and encrypted share links | JS · Web Crypto · Netlify |
