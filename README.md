@@ -117,10 +117,10 @@ Salaries, remote work and AI use from **49,191 responses** to the Stack Overflow
 <td width="50%" valign="top">
 
 ### 📋 ApplyTrack
-Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an automatic status timeline, interviews and a stats dashboard. JWT-secured Spring Boot REST API with per-user data isolation, Flyway + PostgreSQL, Docker Compose, 98 automated tests (86% backend coverage) and an end-to-end Docker smoke test in CI.
+Full-stack job-application tracker: drag-and-drop Kanban across 6 statuses, an automatic status timeline, interviews and a stats dashboard. JWT-secured Spring Boot REST API with per-user data isolation, Flyway + PostgreSQL, Docker Compose, 98 automated tests (86% backend coverage) and an end-to-end Docker smoke test in CI. A separate free version runs only in the browser, with no server and no account.
 
 `Spring Boot` `Java` `React` `TypeScript` `PostgreSQL` `Docker`
-<br>[📦 Repo](https://github.com/naniiic137/applytrack)
+<br>[▶ Try the free version](https://applytrack.pages.dev) · [📦 Repo](https://github.com/naniiic137/applytrack)
 
 </td>
 <td width="50%" valign="top">
